@@ -115,7 +115,7 @@ def api_portfolio():
 
 # ─── Email Config ──────────────────────────────────────────────────────────────
 # Set these as environment variables or replace directly (not recommended in prod)
-EMAIL_SENDER   = "your_gmail@gmail.com"  # Gmail you send FROM
+EMAIL_SENDER   = "mansujethva103@gmail.com"  # Gmail you send FROM
 EMAIL_PASSWORD = "cekkekmtkiudhaog"    # Gmail App Password
 EMAIL_RECEIVER = "mansujethva103@gmail.com" # Your inbox
 
