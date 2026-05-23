@@ -117,7 +117,7 @@ def api_portfolio():
 # Set these as environment variables or replace directly (not recommended in prod)
 EMAIL_SENDER   = "your_gmail@gmail.com"  # Gmail you send FROM
 EMAIL_PASSWORD = "cekkekmtkiudhaog"    # Gmail App Password
-EMAIL_RECEIVER = "sumit.jethva@gmail.com" # Your inbox
+EMAIL_RECEIVER = "mansujethva103@gmail.com" # Your inbox
 
 
 @app.route("/send-message", methods=["POST"])
